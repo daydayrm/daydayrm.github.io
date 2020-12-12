@@ -1,0 +1,115 @@
+* { box-sizing: border-box; }
+body { background-color: #FFFFFF;
+	   color: #898A91;
+	   font-family: Arial, Helvetica, sans-serif; }
+
+#wrapper { width: 70%;
+		   margin-left: auto;
+		   margin-right: auto;
+		   background-color: #9AB5DB;
+		   background-image: linear-gradient(to bottom. #FFFFFF, #9AB5DB);
+		   min-width: 900px;
+		   max-width: 1000px;
+		   border: 1.5px solid #010033;
+		   box-shadow: 4px 4px 4px #6B73E8;
+		    }
+
+#heroHome { background-image: url(beautiful.jpg);
+			height: 400px;
+			background-repeat: no-repeat;
+			margin-left: auto;
+			margin-right: auto;
+			
+			}
+
+#CruiseLinesMain { background-image: url(cruisebrands.jpeg);
+				   height: 400px;
+				   background-size: 100% 100%;
+				   background-repeat: no-repeat;
+				   margin-left: auto;
+				   margin-right: auto; }
+
+#ActivitiesMain { background-image: url(casino.jpg);
+				  height: 400px;
+				  background-size: 100% 100%;
+				  background-repeat: no-repeat;
+				  margin-left: auto;
+				  margin-right: auto; }
+
+#DestinationsMain { background-image: url(haiti.jpg);
+					height: 400px; 
+					background-size: 100% 100%;
+					background-repeat: no-repeat;
+					margin-left: auto;
+					margin-right: auto;}
+
+#ContactMain { background-image: url(lmk.jpg);
+			   height: 400px;
+			   background-size: 100% 100%;
+			   background-repeat: no-repeat;
+			   margin-left: auto;
+			   margin-right: auto; }
+
+
+header { background-color: #98A5D6;
+		 color: #FFFFFF;
+		 background-repeat: no-repeat;
+		 line-height: 500%;
+		 text-align: center; }
+
+nav { background-color: #FFFFFF;
+      font-weight: bold;
+      text-align: center;
+      padding-top: 10px;
+      margin-bottom: 10px; }
+
+nav a { text-decoration: none; }
+nav a:link { color: #010033; }
+nav a:visited { color: #622B80; }
+nav a:hover { color: #105DC9; }
+nav ul { list-style-type: none;
+		margin: 10%;
+		padding-left: 0;
+		font-size: 1.4em; }
+
+main { background-color: #FFFFFF;
+	   padding: 2px 20px 20px 20px;
+	   display: inline-block;
+	    }
+
+h1 { margin-bottom: 0;
+	 font-size: 300%;
+	 font-family: Georgia, "Times New Roman", serif;
+	 letter-spacing: 0.25em;
+	 font-size: 3em;}
+
+h2 { color: #000000;
+	 text-shadow: 2px 2px #CCCCCC;}
+
+h3 { color: #000000 ;
+	 font-size: 120%; }
+h4 { color: #000000 ;
+     font-size: 120%; }
+h5 { color: #000000 ;
+     font-size: 120%; }
+
+footer { font-size: 85%;
+		 font-style: italic;
+		 padding: 20px;
+		 font-family: Georgia, "Times New Roman", serif;
+		 text-align: center;
+
+ 
+		  }
+
+
+
+
+
+
+
+
+
+
+
+	   
